@@ -1,9 +1,8 @@
 # get_next_line
 
-This project is about programming a function that returns a line
-read from a file descriptor.
+Get_next_line  is a function that returns a line read from a file given as a argument.
 
-The goal was to learn about file descriptors, i.e. how to open, close and read content from an FD. It was also about learning to use static variables.
+The goal of the project was to learn about static variables, as well as about opening, closing and reading content from file descriptors
 
 ## Instructions
 
